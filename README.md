@@ -5,7 +5,7 @@
 ## 2. 카프카 zookeeper 
 - 실행
 ##### .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
-- 
+
 ## 3. Broker
 - 실행 
 ##### .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
